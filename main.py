@@ -1,7 +1,7 @@
 import subprocess
 import requests
 
-# --- CONFIGURACIÓN ---
+# --- CONFIGURATION ---
 REMOTE_USER = USUARIO_SSH  # ← usuario SSH
 TELEGRAM_BOT_TOKEN = TOKEN_TELEGRAM_BOT
 TELEGRAM_CHAT_ID = ID_CHAT_BOT
